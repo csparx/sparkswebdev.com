@@ -1,0 +1,50 @@
+# Theme Settings Configuration File
+##
+### use settings.yml file for configure colors, ui, rtl, sidebar, animation options
+
+### Main Settings
+settings:
+  skin: "light" # select initial sking option: "light" or "dark"
+
+### Preloader
+preloader:
+  logo:
+    image: "assets/img/ChristySparks-sign-white.png"
+    alt: ""
+
+### Header
+header:
+  logo:
+    image: "assets/img/ChristySparks-sign-white.png"
+    alt: "Joé Wilson"
+
+### Social
+social:
+
+  - name: "Github"
+    icon: "fab fa-github"
+    url: "https://github.com/csparx"
+
+  - name: "LinkedIn"
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/christy-sparks/"
+
+### Footer
+footer:
+  developer: ""
+  copyright: "Christy Sparks. All Rights Reserved"
+
+### Portfolio Filters Settings
+portfolio:
+  filters:
+    - name: "Web Development"
+      slug: "web-development"
+
+    - name: "Content Creation"
+      slug: "content-creation"
+
+    - name: "Digital Tools"
+      slug: "digital-tools"
+
+    - name: "Branding"
+      slug: "branding"

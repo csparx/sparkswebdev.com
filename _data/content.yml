@@ -1,0 +1,359 @@
+# Sections content configuration file
+##
+### use navigation.yml file to re-order, delete or add section of each card
+### here you can find all content in all pre-build sections
+
+### Hero [ hero-image ]
+hero:
+  image: "assets/img/ChristySparks-profile2.jpg"
+  image_alt: "Christy Sparks"
+  title: "Christy <br>Sparks"
+  subtitle: "FULL-STACK DEVELOPER"
+  description: "I am an Alabama-based Full-Stack Developer passionate about blending creativity and functionality to drive innovation in both front-end and back-end solutions."
+  info:
+    - label: "Born in"
+      value: "Alabama"
+
+    - label: "Experience"
+      value: "15+ Years"
+
+    - label: "Life long"
+      value: "Learner"
+
+### About [ about ]
+about:
+  title: "About Me"
+  text: "
+  <p>
+    I am a dedicated full-stack developer currently serving as the Webmaster at the Alabama Community College System. With a passion for tackling challenging coding problems head-on, I have honed my expertise in custom WordPress development, ensuring seamless user experiences and robust backend functionality. My skills span a wide range, from PHP, React, JavaScript, HTML, to CSS, allowing me to craft dynamic and innovative web solutions. Beyond the digital realm, I am an avid learner who thrives on expanding my knowledge, and I find solace and inspiration in the beauty of nature, which fuels my creativity and determination.
+  </p>
+  <p>
+    My journey in web development has been an exciting one, marked by a commitment to continuous learning and problem-solving. As a full-stack developer, I have had the privilege of creating and optimizing web solutions that drive innovation and user engagement. Whether it is constructing intricate WordPress themes or diving into the intricacies of PHP and React, I revel in the challenge of building seamless digital experiences that make an impact.
+  </p>
+  <p>
+    When I am not immersed in the world of code, I am often found exploring the natural wonders of Alabama and beyond. My love for nature is not just a hobby but a wellspring of inspiration that enhances my creative thinking and problem-solving abilities. It is a reminder that the best solutions often echo the elegant simplicity of the natural world, and I bring this perspective to my work as a full-stack developer, striving to create web solutions that are both beautiful and functional.
+  </p>
+  "
+  list:
+    - label: "Year of <br>Experience"
+      icon: "far fa-check-circle"
+      value: "15+"
+
+    - label: "Proficient in <br>Languages"
+      icon: "fas fa-code"
+      value: "10+"
+
+    - label: "Open Source <br>Contributions"
+      icon: "far fa-gem"
+      value: "10+"
+
+  button:
+    text: "Contact Me"
+    link: "#contact-section"
+
+  signature:
+    image: "assets/img/ChristySparks-sign-white.png"
+    alt: ""
+
+### Resume [ resume ]
+resume:
+  title: "My Resume"
+  text: "
+  <p>
+    I'm a full-stack developer currently working as the Webmaster at the Alabama Community College System. With a knack for solving coding challenges, I specialize in custom WordPress development, focusing on creating user-friendly websites with robust functionality. My journey in web development is marked by a passion for learning and problem-solving, allowing me to build impactful digital experiences.
+  </p>
+  "
+
+  skills:
+    title: "Skills"
+    items:
+      - label: "HTML"
+        dots: "" #0-10 progress in dots
+        value: "" #0-100 progress in %
+
+      - label: "CSS"
+        dots: "6" #0-10 progress in dots
+        value: "60" #0-100 progress in %
+
+      - label: "SASS"
+        dots: "8" #0-10 progress in dots
+        value: "80" #0-100 progress in %
+
+      - label: "Javascript"
+        dots: "5" #0-10 progress in dots
+        value: "50" #0-100 progress in %
+
+      - label: "AJAX"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+      
+      - label: "Responsive Design"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+      
+      - label: "Email Templating"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+      
+      - label: "PHP"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+      
+      - label: "Laravel"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+      
+      - label: "Ruby"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+      
+      - label: "Rails"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+      
+      - label: "Git"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+      
+      - label: "Wordpress"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+        
+      - label: "Shopify"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+      
+      - label: "MySQL"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+      
+      - label: "Swift"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+      
+      - label: "React"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+      
+      - label: "Python"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+      
+      - label: "C++"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+        
+      - label: "AWS"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+
+      - label: "Adobe Photoshop"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+        
+      - label: "Adobe Indesign"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+        
+      - label: "Adobe Illustrator"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+        
+      - label: "Adobe XD"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+        
+      - label: "Adobe Premier"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+        
+      - label: "Webflow"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+        
+      - label: "Figma"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+
+  services:
+    title: "Services"
+    items:
+      - icon: "fab fa-chrome"
+        name: "Web development"
+        text: "<p>Modern and mobile-ready website that will help you reach all of your marketing.</p>"
+        button: "order now"
+        link: "#contact-section"
+
+      - icon: "fab fa-soundcloud"
+        name: "App development"
+        text: "<p>Music copying, writing, creating, transcription and composition services.</p>"
+        button: "order now"
+        link: "#contact-section"
+
+      - icon: "fab fa-adversal"
+        name: "Software Development"
+        text: "<p>Advertising services include television, radio, print, mail, and web apps.</p>"
+        button: "order now"
+        link: "#contact-section"
+
+      - icon: "fas fa-gamepad"
+        name: "Video Editing"
+        text: "<p>Developing memorable and unique mobile android, ios and video games.</p>"
+        button: "order now"
+        link: "#contact-section"
+
+      - icon: "fas fa-gamepad"
+        name: "Print & Web Design"
+        text: "<p>Developing memorable and unique mobile android, ios and video games.</p>"
+        button: "order now"
+        link: "#contact-section"
+
+      - icon: "fas fa-gamepad"
+        name: "Photo Editing & Retouching"
+        text: "<p>Developing memorable and unique mobile android, ios and video games.</p>"
+        button: "order now"
+        link: "#contact-section"
+
+  history1:
+    - title: "EXPERIENCE"
+      items:
+        - date: "2018 - Present"
+          name: "Alabama Community College System"
+          subname: "Webmaster"
+          text: "<p>Responsible for creating new websites, promotional emails, website maintenance, helping maintain company standards for design, performing navigation and browser compatibility tests, performing quality control for internal and external content maintaining databases, ensuring responsive web design for mobile devices, maintaining integration with third-party applications, troubleshooting website errors, rebooting servers, and maintenance of key web applications.</p>"
+
+        - date: "2012 - Present"
+          name: "Café Racer Magazine & Ton-Up TV"
+          subname: "Web Content Manager"
+          text: "<p>Overhauled previous e-commerce website, increasing future sales. Café Racer is a rapidly growing magazine providing a complete, bimonthly guide to café racers. Implemented a digital magazine and Café Racer TV streaming subscription for purchase. Team up with the sales representative to create additional ad revenue.</p>"
+
+        - date: "2010 - 2018"
+          name: "Hatton-Brown Publishers, Inc."
+          subname: "Web Developer"
+          text: "<p>Served as the web developer for Hatton-Brown, a production company that has grown to be the influential leader in forest-based publishing for over 60 years. Managed the website division for over 15 different magazines and expositions. Sole creator and organizer of HB Media, a web development service offered to small business owners.</p>"
+
+        - date: "2007 - 2010"
+          name: "Hatton-Brown Publishers, Inc."
+          subname: "Graphic Designer"
+          text: "<p>Worked with a team of designers to produce seven magazines to meet the print deadline. Designed layouts, color-corrected pictures for all publications. Updated websites and managed social media accounts for all publications and expositions.</p>"
+  history2:
+    - title: "EDUCATION"
+      items:
+      - date: "Bachelor of Science in"
+        name: "Computer Science"
+        text: "Troy University"
+    - title: "AWARDS"
+      items:
+        - date: "2023"
+          name: "Alabama Automotive Manufacturers Association Impact Award"
+          text: "<p>AAMA Scholarship contributions for the past five years</p>"
+
+        - date: "2020"
+          name: "Public Relations Council Medallion Award"
+          text: "<p>ACCS Granted and the 2020 Social Media Takeover</p>"
+
+        - date: "2019"
+          name: "Public Relations Council Award of Excellence"
+          text: "<p>Clean Home Alabama</p>"
+  button:
+    text: "Download CV"
+    link: "assets/pdfs/ChristySparks-Resume-2023.pdf"
+
+### Pricing [ pricing ]
+pricing:
+  title: "Pricing Plans"
+  text: "<p>Are you interested to work with me ? Here are my price list for design related work. Lets talk about project !</p>"
+  items:
+    - name: "Full Time"
+      subname: "Available for Full Time"
+      price: "$1200"
+      list:
+        - value: "Web Development"
+        - value: "Advertising"
+        - value: "Web Development"
+        - value: "Photography"
+      button: "Hire Me"
+      link: "#contact-section"
+
+    - name: "Project Wise"
+      subname: "Available for Freelancing"
+      price: "$400"
+      list:
+        - value: "Web Development"
+        - value: "Advertising"
+        - value: "Web Development"
+        - value: "Photography"
+      button: "Hire Me"
+      link: "#contact-section"
+
+    - name: "Hourley"
+      subname: "Available for Hourley Basis"
+      price: "$30"
+      list:
+        - value: "Web Development"
+        - value: "Advertising"
+        - value: "Web Development"
+        - value: "Photography"
+      button: "Hire Me"
+      link: "#contact-section"
+
+### Testimonials [ testimonials ]
+testimonials:
+  items:
+    - image: "assets/img/team3.jpg"
+      name: "Jennifer Smith"
+      role: "CEO &amp; Founder"
+      text: "<p>Sed vel mattis dolor. Vestibulum gravida, dolor vel dapibus bibendum, velit enim finibus mauris, in volutpat arcu magna ac metus. Sed condimentum, erat vel sodales pharetra, ligula massa maximus dolor</p>"
+
+    - image: "assets/img/team3.jpg"
+      name: "James Green"
+      role: "Art Director"
+      text: "<p>Sed vel mattis dolor. Vestibulum gravida, dolor vel dapibus bibendum, velit enim finibus mauris, in volutpat arcu magna ac metus. Sed condimentum, erat vel sodales pharetra, ligula massa maximus dolor</p>"
+
+    - image: "assets/img/team3.jpg"
+      name: "Joseph Mackey"
+      role: "Architect"
+      text: "<p>Sed vel mattis dolor. Vestibulum gravida, dolor vel dapibus bibendum, velit enim finibus mauris, in volutpat arcu magna ac metus. Sed condimentum, erat vel sodales pharetra, ligula massa maximus dolor</p>"
+
+### Clients [ clients ]
+clients:
+  title: "My Clients"
+  text: "<p>Suspendisse potenti. Sed egestas eros eu libero posuere ultrices. Nullam ut aliquet felis, sit amet imperdiet felis.</p>"
+  items:
+    - image: "assets/img/brands/brand1.png"
+      title: "bslthemes"
+
+    - image: "assets/img/brands/brand2.png"
+      title: "bslthemes"
+
+    - image: "assets/img/brands/brand3.png"
+      title: "bslthemes"
+
+    - image: "assets/img/brands/brand4.png"
+      title: "bslthemes"
+
+### Contact [ contacts ]
+contacts:
+  title: "Contact Me"
+  list:
+    - label: "Phone"
+      icon: "fas fa-phone"
+      value: "+1 334-324-0902"
+
+    - label: "Email"
+      icon: "fas fa-at"
+      value: "sparkswebdev@gmail.com"
+
+### Blog [ blog ]
+#items generates from dir /_posts/*
+blog:
+  title: "My Blog"
+  text: "<p>Suspendisse potenti. Sed egestas eros eu libero posuere ultrices. Nullam ut aliquet felis, sit amet imperdiet felis.</p>"
+  button: "View Blog"
+  link: "blog/"
+
+### Portfolio [ portfolio ]
+#items generates from dir /_works/*
+portfolio:
+  title: "My Projects"
+  text: "<p>A showcase of my dedication to creating unique digital experiences, where each project carries my personal touch. Explore my work, and you'll see my technical skills and genuine passion in action."
