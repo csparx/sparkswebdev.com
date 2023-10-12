@@ -5,7 +5,7 @@
 
 ### Hero [ hero-image ]
 hero:
-  image: "assets/img/Christysparks-profile2.jpg"
+  image: "assets/img/Christyparks-profile2.jpg"
   image_alt: "Christy Sparks"
   title: "Christy <br>Sparks"
   subtitle: "FULL-STACK DEVELOPER"
