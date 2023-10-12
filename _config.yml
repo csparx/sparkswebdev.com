@@ -33,7 +33,7 @@ title: "Christy Sparks Portfolio"
 email: "sparkswebdev@gmail.com"
 description: "Personal Portfolio for Christy Sparks"
 author: "Admin"
-baseurl: "https://www.sparkswebdev.com" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.sparkswebdev.com" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%d %B %Y"
 
