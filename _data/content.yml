@@ -5,7 +5,7 @@
 
 ### Hero [ hero-image ]
 hero:
-  image: "assets/img/ChristySparks-profile2.jpg"
+  image: "/assets/img/ChristySparks-profile2.jpg"
   image_alt: "Christy Sparks"
   title: "Christy <br>Sparks"
   subtitle: "FULL-STACK DEVELOPER"
@@ -52,7 +52,7 @@ about:
     link: "#contact-section"
 
   signature:
-    image: "assets/img/ChristySparks-sign-white.png"
+    image: "/assets/img/ChristySparks-sign-white.png"
     alt: ""
 
 ### Resume [ resume ]
