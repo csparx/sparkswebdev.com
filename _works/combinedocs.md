@@ -8,9 +8,6 @@ image: assets/img/works/combinedocs/combinedocs-homepage.png
 
 # full details
 info:
-  - label: Link
-    value: <a href="https://www.accs.edu/about-accs/board-of-trustees/policies-and-procedures/">https://www.accs.edu/about-accs/board-of-trustees/policies-and-procedures/</a>
-
   - label: Technology
     value: Wordpress, HTML, CSS, Javascript, PHP
 
