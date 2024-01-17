@@ -1,10 +1,10 @@
 ---
 # preview details
 layout: works-single
-title: PDF Search Custom Plugin
+title: Combine Documents with Secured PDF
 category: Web Development
 category_slug: web-development
-image: assets/img/works/policies/policies-homepage.png
+image: assets/img/works/combinedocs/combinedocs-homepage.png
 
 # full details
 info:
@@ -15,11 +15,11 @@ info:
     value: Wordpress, HTML, CSS, Javascript, PHP
 
 description1:
-  title: Workforce Grants
-  text: "<p>The website I created plays a pivotal role in equipping our Alabama community colleges with the essential information and a user-friendly application process for a range of grants. Its primary aim is to facilitate access to grant opportunities, offering detailed guidelines, supporting documents, requirements, and step-by-step instructions for successful applications. As emphasized on the page, the Alabama Community College System is dedicated to supporting community colleges in the development of innovative, creative, and regionally customized workforce development projects. Notably, all grant entries are seamlessly funneled to the workforce team's Monday.com platform, ensuring efficient and organized processing of applications and underlining our commitment to supporting our community colleges in their pursuit of funding. This website stands as a testament to our dedication to providing accessible resources and fostering the growth of our community colleges through grant opportunities.</p>"
+  title: Combine Documents with Secured PDF
+  text: "<p>This custom plugin was a solution created for the ACCS Facilities applicaitions. The applications are in word, pdf, and excel formats. I created a plugin that would combine all the files in to one while preserving the secure PDFs.</p>"
 
 video:
-  poster: assets/img/works/policies/policies-homepage.png
-  id: c-eC1hdlM7c
+  poster: assets/img/works/combinedocs/combinedocs-homepage.png
+  id: f-TWpR9YqxI
 
 ---
